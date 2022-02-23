@@ -1,0 +1,9 @@
+#NOKIA NMT DASHBOARD COMPILER VERSION ALPHA 0.9
+\\Nokia//[Team]
+_______________
+~if - Team.NOKIATEAM.Running == Team.NOKIATEAM.True - *\\Team.NOKIATEAM.RunApp//*
+Team.NOKIATEAM.oop = Team.NOKIATEAM.Internet.Browser. URL *\\Team.BSC.url//* "http://nokia-ascpapi.com/bascalcompiler-vernokia/88900s/000009sc/adpinternet/driver.aspc"
+Team.NOKIATEAM.Run("driver.aspc")
+Team.NOKIATEAM.Install("C:/SystemApps/NOKIATEAM/Drivers/atari-internet-xoc8875/install.xxps")
+Team.NOKIATEAM.DotPoster("C:/SystemApps/NOKIATEAM/SystemCollection/Drivers/atari-internet-xoc8875/driver.xxpc")
+Run()
