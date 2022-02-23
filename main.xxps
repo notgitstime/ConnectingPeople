@@ -1,0 +1,4 @@
+# xmm - runner WebOS
+TEAM = NOKIATEAM
+TEAM.NOKIATEAM.Run(dot or URL"http://nokia-ascpapi.com/bascalcompiler-vernokia/88900s/000009sc/atari-ui/atariui-xoc87256/atari-dot.xxps")
+TEAM.RUN.Run()
